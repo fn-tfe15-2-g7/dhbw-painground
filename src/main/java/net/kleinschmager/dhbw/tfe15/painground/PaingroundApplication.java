@@ -45,7 +45,6 @@ public class PaingroundApplication {
 	 */
 	@Bean
 	public CommandLineRunner loadData(MemberProfileRepository repository) {
-
 		return args -> {
 			
 			deleteAllExistingProfiles(repository);

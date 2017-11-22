@@ -59,6 +59,7 @@ image:https://sonarcloud.io/api/badges/gate?key=net.kleinschmager.dhbw.tfe15:g7-
 
 Have an Application to manage the knowledge/skills of members withina any organisation.
 One new line
+Two new lines
 
 === Development
 
