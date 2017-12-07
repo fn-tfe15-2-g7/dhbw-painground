@@ -9,7 +9,7 @@ import java.util.List;
 import net.kleinschmager.dhbw.tfe15.painground.persistence.model.MemberProfile;
 
 /**
- * @author robertkleinschmager
+ * @author maxganser
  *
  */
 public class AlternativeMemberProfileCsvImporter implements CsvImporter {
